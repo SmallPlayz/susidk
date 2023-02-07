@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AMONG USthings:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AMONG_USthings_jar</output-path>
+    <root id="archive" name="AMONG USthings.jar">
+      <element id="module-output" name="AMONG USthings" />
+    </root>
+  </artifact>
+</component>
