@@ -19,7 +19,7 @@ public class Main {
         clip.stop();
 
         while(true){
-            Thread.sleep((int)(Math.random() * 35000) + 20000);
+            Thread.sleep((int)(Math.random() * 25000) + 15000);
             vol();
             clip.start();
 
